@@ -1,5 +1,5 @@
-sp - br
-ime | usp
+<h1>Rodrigo Michelassi</h1>
+<h2>IME - Universidade de São Paulo</h2>
 
 <div>
     <a href="https://github.com/roddd35">
