@@ -2,7 +2,6 @@
 <h2>IME - Universidade de São Paulo</h2>
 
 <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=roddd35&color=yellow" alt="Profile views"/>
     <p>:dizzy: <b><i>Computer Science student at University of São Paulo, BR</i></b></p>
 </div>
 
