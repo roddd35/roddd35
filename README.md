@@ -3,6 +3,7 @@
 
 <div align="left">
     <p>:dizzy: <b><i>Computer Science student at University of São Paulo, BR</i></b></p>
+    <p:>:ringed_planet:	 <b><i>Lux et Veritas </i></b></p>
 </div>
 
 ## Technologies
