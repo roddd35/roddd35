@@ -2,7 +2,8 @@
 <h2>IME - Universidade de São Paulo</h2>
 
 <div align="left">
-    <p>:dizzy: <b><i>Computer Science student at University of São Paulo, BR</i></b></p>
+    <p>:dizzy: <b><i>Computer Science undergraduent student at University of São Paulo, BR</i></b></p>
+    <p>:books: <b><i>Currently interested in Computer Science Theory, Data Structures and Machine Learning applied to Computer Vision</i></b></p>
     <p:>:ringed_planet:	 <b><i>Lux et Veritas </i></b></p>
 </div>
 
