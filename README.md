@@ -36,6 +36,6 @@
     
 ## Contact
 [![image](https://img.shields.io/badge/rodrigo.michelassi@usp.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.michelassi@usp.br)
-<a href="https://www.linkedin.com/in/rodrigo-michelassi-1031b4244/">
+<a href="https://www.linkedin.com/in/rodrigo-michelassi/">
     ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
