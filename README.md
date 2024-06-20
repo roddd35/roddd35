@@ -8,6 +8,9 @@
     <p:>:ringed_planet: <b><i>Hinc lucem et pocula sacra</i></b></p>
 </div>
 
+## Research Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roddd35&repo=IQA-for-retinal-fundus-images&theme=blue_navy)](https://github.com/roddd35/IQA-for-retinal-fundus-images)
+
 ## Technologies
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +31,7 @@
 <div>
     <a href="https://github.com/roddd35">
         <img width="520cm" src="https://github-readme-stats.vercel.app/api?username=roddd35&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-        <img width="520cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roddd35&layout=compact&langs_count=16&theme=blue_navy"/>
+        <img width="520cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roddd35&layout=compact&langs_count=12&theme=blue_navy&hide=jupyter%20notebook"/>
         <!--<img width="520cm" src="https://github-readme-stats.vercel.app/api/pin/?username=roddd35&repo=pacman-multiplayer-game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>-->
 <!--         <img width="520cm" src="https://streak-stats.demolab.com/?user=roddd35&theme=vision-friendly-dark"/> -->
     </a>
