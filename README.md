@@ -4,7 +4,7 @@
 <div align="left">
     <p>:computer: <b><i>Computer Science undergraduate student at University of São Paulo, BR</i></b></p>
     <p>:memo: <b><i>Machine Learning/Computer Vision researcher</i></b></p>
-    <p>:floppy_disk: <b><i>Software Engineer</i></b></p>
+    <p>:floppy_disk: <b><i>Software Engineering Intern @ Uber</i></b></p>
     <p>:incoming_envelope: <b><i>Open Source contributor</i></b></p>
 </div>
 
